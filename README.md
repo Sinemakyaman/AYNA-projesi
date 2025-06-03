@@ -36,9 +36,11 @@ Sonuç olarak; AYNA, kriz anlarında **zamanla yarışan ekipler için güvenili
 
 ---
 
-## 🖼️ Uygulama Arayüzü
 
-![AYNA Uygulama Arayüzü](assets/mockup.jpg)
+### 🖼️ Uygulama Arayüzü
+
+![AYNA Arayüzü](./images/arayuz.png)
+
 
 
 
