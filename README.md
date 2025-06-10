@@ -22,7 +22,10 @@ Bu hedef doğrultusunda geliştirdiğimiz sistem şu sorunlara çözüm getirir:
 Sonuç olarak; AYNA, kriz anlarında **zamanla yarışan ekipler için güvenilir bir dijital yol arkadaşı** olmayı amaçlar. Projemiz, teknolojiyi sosyal faydaya dönüştürmeyi hedefleyen bir adımdır.
 
 ---
+![Uygulama arayüzü](images/mockup.jpg)
 
+
+---
 ## 🔧 Uygulama Özellikleri
 
 | Özellik                         | Açıklama |
@@ -33,15 +36,6 @@ Sonuç olarak; AYNA, kriz anlarında **zamanla yarışan ekipler için güvenili
 | 🎙️ Sesli veya Yazılı Açıklama | Yardım içeriği detaylandırılabilir |
 | 📶 Offline Desteği            | İnternet yoksa veri saklanır, sonra iletilir |
 | 🧠 AI ile Asılsız İhbar Filtresi| %95 doğrulukta spam tespiti |
-
----
-
-
-### 🖼️ Uygulama Arayüzü
-
-![AYNA Arayüzü](./images/arayuz.png)
-
-
 
 
 ---
